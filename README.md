@@ -17,6 +17,10 @@ At the moment, my primary interest is figuring out how to close the gap between 
 
 Please reach out if you're interested in chatting about ideas.
 
+## Availability
+
+I'm available for freelance projects, preferably involving data-rich technical applications. With experience building visualization tools across various domains, I specialize in making complex information accessible through thoughtfully designed interfaces. If you're looking for help with geospatial data visualization, interactive technical tools, or frontend development for specialized domains, let's discuss how I can contribute to your project.
+
 <!--
 Claude
 ------
