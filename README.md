@@ -1,15 +1,12 @@
 ## Jules Blom
 
-I studied geoscience engineering, which involves interpreting complex subsurface data.
-
-There I grew frustrated with the software we used.
+I studied geoscience engineering, which involves interpreting complex subsurface data. There, I grew frustrated with the software we used.
 I came to believe that
 
-1. Software should be useful and usable, technical software especially.
+1. Software should be useful and usable, even technical software.
 2. A good visualization can make complex ideas clear quickly.
 
-These beliefs pushed me to learn programming,
-specifically frontend development to build more thoughtful interfaces to display technical information.
+These beliefs pushed me to learn programming, specifically frontend development to build more thoughtful interfaces to display technical information.
 
 For the past five years, I've worked on data-rich applications across various domains, focusing on turning abstract numbers into visual insights.
 
