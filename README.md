@@ -8,7 +8,7 @@ I came to believe that
 
 These beliefs pushed me to learn programming, specifically frontend development to build more thoughtful interfaces to display technical information.
 
-For the past five years, I've worked on data-rich applications across various domains, focusing on turning abstract numbers into visual insights.
+For the past five years, I've worked on data-rich applications across various domains, focusing on turning numbers into visual insights.
 
 At the moment, my primary interest is figuring out how to close the gap between the fragmented tools that exist for working with geotechnical data and the more accessible, interoperable tools that I believe could exist.
 
